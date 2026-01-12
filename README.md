@@ -1,4 +1,4 @@
-#
+# Scaling and Logic in the Colour Code on a Superconducting Quantum Processor
 
 ### 1-1. Why quantum error correction?
 
